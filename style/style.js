@@ -13,8 +13,8 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   infoText: {
-    fontSize: 20,
-    margin: 10,
+    fontSize: 16,
+    margin: 5,
     fontWeight: 'bold',
   },
   actionButton: {
@@ -28,12 +28,12 @@ const styles = StyleSheet.create({
   },
   buttonText: {
     color: 'white',
-    fontSize: 20,
+    fontSize: 15,
   },
   diceContainer: {
-    padding: 10,
-    width: 70,
-    height: 70,
+    padding: 0,
+    width: 55,
+    height: 55,
     margin: 5,
     borderRadius: 10,
     justifyContent: 'center',
@@ -48,9 +48,9 @@ const styles = StyleSheet.create({
     
   },
   pointButton: {
-    padding: 5,
-    width: 70,
-    height: 70,
+    padding: 0,
+    width: 55,
+    height: 55,
     //margin: 5,
     borderRadius: 15,
     justifyContent: 'center',
